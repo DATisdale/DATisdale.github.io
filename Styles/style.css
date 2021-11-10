@@ -1,9 +1,10 @@
 .background-container{
-    height: 100vh;
+    height: 150vh;
     background-image: url("../img/christopher-gower-m_HRfLhgABo-unsplash.jpg");
     background-size:  cover;
     background-repeat: no-repeat;
     background-position: top;
     position: relative;
     
+
 }
